@@ -1,3 +1,3 @@
 # Kokoa_clone
 
-css is very fun!
+It's tough!
