@@ -17,15 +17,6 @@
 }
 
 .nav__notification {
-  background-color: tomato;
-  width: 30px;
-  height: 30px;
-  border-radius: 15px; /*To make circle width/2*/
-  display: flex; /*To apply height and display value*/
-  justify-content: center; /*Why it doesn't work at {display:block;}*/
-  align-items: center; /*Why it doesn't work at {display:block;}*/
-  color: white;
-  font-weight: 600;
   position: absolute;
   left: 15px;
   bottom: 15px;

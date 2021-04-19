@@ -1,0 +1,22 @@
+.badge {
+  background-color: tomato;
+  width: 30px;
+  height: 30px;
+  border-radius: 15px; /*To make circle width/2*/
+  display: flex; /*To apply height and display value*/
+  justify-content: center; /*Why it doesn't work at {display:block;}*/
+  align-items: center; /*Why it doesn't work at {display:block;}*/
+  color: white;
+  font-weight: 600;
+}
+.right-dot-badge {
+  color: tomato;
+  size: 900px;
+  font-weight: 900;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  left: 25px;
+  bottom: 25px;
+}
