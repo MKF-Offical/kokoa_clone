@@ -17,6 +17,17 @@
   justify-content: center;
   align-items: center;
   position: absolute;
-  left: 25px;
-  bottom: 25px;
+  /*left: 25px;
+  bottom: 25px;*/
+}
+
+.point {
+  background-color: tomato;
+  width: 5px;
+  height: 5px;
+  border-radius: 2.5px;
+  justify-content: center;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
 }
